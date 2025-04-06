@@ -1,3 +1,4 @@
+# React Project Setup with Webpack and Babel - Without CRA
 1. `npm init` - creates package.json file
 2. `npm install react react-dom` - installs react and react-dom
 3. `npm install --save-dev webpack webpack-cli webpack-dev-server` - installs webpack, webpack-cli and webpack-dev-server
