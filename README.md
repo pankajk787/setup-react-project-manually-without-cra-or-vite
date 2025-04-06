@@ -127,7 +127,7 @@ const App = () => {
 
 export default App;
 ```
-And and index.js file:
+And index.js file:
 ```jsx
 import React from "react";
 import { createRoot } from "react-dom/client";
