@@ -19,7 +19,7 @@
    - **@babel/core** -
      The heart of Babel — the compiler itself.
      - It doesn't do anything on its own.
-     - hink of it as the "engine" that receives source code and applies transformations to it.
+     - Think of it as the "engine" that receives source code and applies transformations to it.
      - It needs presets or plugins to know how to transform the code.
    - **babel-loader** -
      A Webpack loader that lets you use Babel in your Webpack build process.
