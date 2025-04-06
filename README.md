@@ -112,7 +112,7 @@ module.exports = {
 };
 ```
 
-8. Create App.jsx file and inde.js file
+8. Create App.jsx file
 
 ```jsx
 import React from "react";
@@ -127,7 +127,7 @@ const App = () => {
 
 export default App;
 ```
-
+And and index.js file:
 ```jsx
 import React from "react";
 import { createRoot } from "react-dom/client";
